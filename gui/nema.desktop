@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=NEMA
+Exec=python3 /doc/code/DEG/nematodes/other/gui/gui.py
+Terminal=true
+Type=Application
+Icon=/doc/code/DEG/nematodes/other/gui/nema.png 
